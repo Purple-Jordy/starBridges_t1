@@ -1,0 +1,9 @@
+-keep class com.singular.sdk.** { *; }
+-keep public class com.android.installreferrer.** { *; }
+-keep public class com.singular.unitybridge.** { *; }
+-keep class io.thebackend.unity.** {
+    *;
+}
+-keep class io.thebackend.webview.** {
+    *;
+}
